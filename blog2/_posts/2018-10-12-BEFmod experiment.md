@@ -7,6 +7,7 @@ featImg2: research/BEFmod/BEFmod-1-original.jpg
 excerpt: "Beautiful butterflies"
 
 ---
+
 ## <span style="color:red">BEF modification experiment </span>
 Complementary effect is discussed for the explanation of diversity–ecosystem functioning (BEF) relationships in some forest ecosystems, however the importance of the resistance to the leaf pathogens and herbivores in higher diversity forest as one of the mechanisms for the BEF relationship is unknown. Here we conducted an experiment in a newly established large forest biodiversity–ecosystem functioning experiment in JiangXi Province, China (BEF-China). Using experimental manipulations of pathogens, herbivores and nutrient resources availability across 6 biodiversity levels (1, 2, 4, 8, 16, 24 species), we assessed the relative importance of herbivore and pathogen release versus resource competition as mechanisms driving diversity-productivity relationships in a subtropical forest.
 ## Experimental treatments

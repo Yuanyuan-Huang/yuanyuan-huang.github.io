@@ -6,6 +6,9 @@ featImg: photography/Litter_XGS/litter_XGS-7-thumbnail.jpg
 featImg2: photography/Litter_XGS/litter_XGS-7-original.jpg
 excerpt: "Beautiful butterflies"
 ---
+
+[**Huang, Y.**, Ma, K., Niklaus, P.A. & Schmid, B. (2018). Leaf-litter overyielding in a forest biodiversity experiment in subtropical China. Forest Ecosystems, 5, 38.](https://rdcu.be/bbM8w)
+
 ## Methods
 We installed 3 litter traps in the central area of each plot in March 2014 at site A (trees were planted in 2009) and in March 2015 at site B (trees were planted in 2010). Litter traps were made of nylon nets (1 mm mesh) placed over a PVC frame with a horizontal trapping area of 0.75 × 0.75 m. The litter traps were placed under the tree canopy 1–1.5 m above ground level, depending on the size of the trees. Plots with a maximum tree height below 1 m were not equipped with traps because these would not have collected significant amounts of leaf litter (There are 19 plots as showed with grey crosses in the figure). At sites A and B, 56 and 45 plots were fitted with traps, respectively. Thus, in total there were 101 plots on which we installed litter traps. In site B, two Meliosma flexuosa monocultures, one Machilus grijsii plot and one Quercus phillyreoides plot could not be established in the beginning, so they were excluded from analysis.
 ![My research](/assets/photography/Litter_XGS/littertrap.png)

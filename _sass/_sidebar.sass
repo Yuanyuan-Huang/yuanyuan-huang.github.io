@@ -1,0 +1,63 @@
+/* ==========================================================================
+   SIDEBAR
+   ========================================================================== */
+
+/*
+   Default
+   ========================================================================== */
+
+.sidebar
+  position: relative
+  z-index: 10
+  -webkit-transform: translate3d(0, 0, 0)
+  transform: translate3d(0, 0, 0)
+  float: left
+  opacity: 0.75
+  -webkit-transition: opacity 0.2s ease-in-out
+  transition: opacity 0.2s ease-in-out
+
+  &:hover
+    opacity: 1
+  &.sticky
+    overflow-y: auto
+    /* calculate height of nav list
+       viewport height - nav height - masthead x-padding
+  //   height: calc(100vh - #{$nav-height} - 2em)
+  //
+  // width: calc(#{$right-sidebar-width} - 1em)
+  h1
+    color: $primary
+    font-size: 1.875
+    // 30/16
+    font-weight: 500
+    line-height: 1.2m
+    opacity: 0.85
+
+  h2
+    color: $primary
+    font-size: 1.875
+    // 30/16
+    font-weight: 500
+    line-height: 1.2m
+    opacity: 0.85
+  h3
+    color: $secondary
+    font-size: 1.875
+    // 30/16
+    font-weight: 500
+    line-height: 1.2m
+    opacity: 0.85
+  h4,
+  h5,
+  h6
+    margin-bottom: 0
+  p,
+  li
+    line-height: 1.5
+
+  img
+    width: 100%
+
+    &.emoji
+      width: 20px
+      height: 20px

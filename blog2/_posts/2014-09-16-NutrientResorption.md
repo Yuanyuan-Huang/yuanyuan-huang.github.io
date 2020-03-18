@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Nutrient resorption in Gutianshan
+title: Nutrient resorption (NuRE) along a chronosequence in a subtropical forest
 categories: forest
 featImg: research/GTS/NR-2.JPG
 featImg2: research/GTS/NR-2.JPG
 excerpt: "Beautiful butterflies"
+toc: true
 ---
-## Nutrient resorption (NuRE) along a chronosequence in a subtropical forest
+
 An important mechanism of plant nutrient conservation
 
 Make nutrient recycle more quickly
