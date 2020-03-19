@@ -2,8 +2,8 @@
 layout: post
 title: Nutrient resorption (NuRE) along a chronosequence in a subtropical forest
 categories: forest
-featImg: research/GTS/nr-2.png
-featImg2: research/GTS/nr-2.png
+featImg: research/GTS/NR-2.jpg
+featImg2: img/gts_view-4-original.jpg
 excerpt: "Research"
 toc: true
 ---
