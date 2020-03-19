@@ -4,7 +4,7 @@ title: Nutrient resorption (NuRE) along a chronosequence in a subtropical forest
 categories: forest
 featImg: research/GTS/nr-2.png
 featImg2: research/GTS/nr-2.png
-excerpt: "Beautiful butterflies"
+excerpt: "Research"
 toc: true
 ---
 

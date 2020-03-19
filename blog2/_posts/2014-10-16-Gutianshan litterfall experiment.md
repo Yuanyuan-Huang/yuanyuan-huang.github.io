@@ -4,7 +4,7 @@ title: Litterfall in Gutianshan
 categories: forest
 featImg: research/GTS/Lt-9.jpg
 featImg2: research/GTS/Lt-9.jpg
-excerpt: "Beautiful butterflies"
+excerpt: "Research"
 ---
 
 [**Huang, Y.**, Ma, Y., Zhao, K., Niklaus, P.A., Schmid, B. & He, J.-S. (2017) Positive effects of tree species diversity on litterfall quantity and quality along a secondary successional chronosequence in a subtropical forest. Journal of Plant Ecology, 10, 28-35.](https://academic.oup.com/jpe/article/10/1/28/2966853)

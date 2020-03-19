@@ -4,7 +4,7 @@ title: Soil respiration
 categories: forest
 featImg: photography/litter-gts/litter-gts-2-thumbnail.jpg
 featImg2: photography/litter-gts/litter-gts-6-original.jpg
-excerpt: "Beautiful butterflies"
+excerpt: "Research"
 ---
 ## Publications
 [Wang, C., Ma, Y., Trogisch, S., **Huang, Y.**, Geng, Y., Scherer-Lorenzen, M. & He, J.-S. (2017) Soil respiration is driven by fine root biomass along a forest chronosequence in subtropical China. Journal of Plant Ecology, 10, 36-46.](https://academic.oup.com/jpe/article/10/1/36/2966823)

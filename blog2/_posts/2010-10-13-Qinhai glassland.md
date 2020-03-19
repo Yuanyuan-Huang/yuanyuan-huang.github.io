@@ -4,7 +4,7 @@ title: Qinghai Grassland
 categories: grassland
 featImg: photography/QinhaiSummerSchool/QinhaiSummerSchool-8-thumbnail.jpg
 featImg2: photography/QinhaiSummerSchool/QinhaiSummerSchool-8-original.jpg
-excerpt: "Beautiful butterflies"
+excerpt: "Research"
 ---
 [**Huang Y.**, Olbrecht L., Yang X., He J.-S,. (2013) Effects of nutrient additions on the colonization of arbuscular mycorrhizal fungi in the alpine meadow on the Tibetan Plateau. Acta Scientiarum Naturalium Universitatis Pekinensis, 50, 911-918 (in Chinese).](/assets/pdf/HuangEtal_2014.pdf)
 

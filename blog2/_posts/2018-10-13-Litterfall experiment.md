@@ -4,7 +4,7 @@ title: Litterfall Experiment
 categories: BEF-China
 featImg: photography/Litter_XGS/litter_XGS-7-thumbnail.jpg
 featImg2: photography/Litter_XGS/litter_XGS-7-original.jpg
-excerpt: "Beautiful butterflies"
+excerpt: "Research"
 ---
 
 [**Huang, Y.**, Ma, K., Niklaus, P.A. & Schmid, B. (2018). Leaf-litter overyielding in a forest biodiversity experiment in subtropical China. Forest Ecosystems, 5, 38.](https://rdcu.be/bbM8w)

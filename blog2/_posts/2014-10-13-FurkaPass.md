@@ -4,7 +4,7 @@ title: Microtopography affects small scale plant species composition and diversi
 categories: grassland
 featImg: photography/Furka_photo/Furka_photo-34-thumbnail.jpg
 featImg2: photography/Furka_photo/Furka_photo-32-original.jpg
-excerpt: "Beautiful butterflies"
+excerpt: "Research"
 ---
 Aino Kulonen, Yuanyuan Huang
 

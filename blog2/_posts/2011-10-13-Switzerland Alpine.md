@@ -4,7 +4,7 @@ title: Switzerland Alpine
 categories: grassland
 featImg: photography/2011SummerSchool/2011SummerSchool-17-thumbnail.jpg
 featImg2: photography/2011SummerSchool/2011SummerSchool-26-original.jpg
-excerpt: "Beautiful butterflies"
+excerpt: "Research"
 ---
 <div class="stories-index-title">
     <a href="{{ site.baseurl }}/stories/grassland/" class="read-featured-stories-post">Return</a>

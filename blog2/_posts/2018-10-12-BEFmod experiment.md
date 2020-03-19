@@ -4,7 +4,7 @@ title: BEFmod Experiment
 categories: BEF-China
 featImg: research/BEFmod/BEFmod-2-thumbnail.jpg
 featImg2: research/BEFmod/BEFmod-1-original.jpg
-excerpt: "Beautiful butterflies"
+excerpt: "Research"
 
 ---
 
