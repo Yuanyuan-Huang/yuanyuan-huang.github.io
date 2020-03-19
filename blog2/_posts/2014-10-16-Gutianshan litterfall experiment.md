@@ -2,8 +2,8 @@
 layout: post
 title: Litterfall in Gutianshan
 categories: forest
-featImg: research/GTS/Lt-9.JPG
-featImg2: research/GTS/Lt-9.JPG
+featImg: research/GTS/Lt-9.jpg
+featImg2: research/GTS/Lt-9.jpg
 excerpt: "Beautiful butterflies"
 ---
 

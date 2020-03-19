@@ -9,7 +9,7 @@ excerpt: "Beautiful butterflies"
 <div class="stories-index-title">
     <a href="{{ site.baseurl }}/stories/grassland/" class="read-featured-stories-post">Return</a>
 </div>
-[Read Scientific Report](/assets/pdf/Sino-Swiss summer school report 2011.pdf)
+[Download Scientific Report](/assets/pdf/Sino-Swiss summer school report 2011.pdf)
 ![See the research site](/assets/research/ABC/ReliefCadagno.jpg)
 [Download the map of Cadagno Geology](/assets/pdf/GeologyCadagno.pdf)
 <div class="gallery_story">

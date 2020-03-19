@@ -1,27 +1,11 @@
 docs_list_title: Research
-docs:
-
-  - title: Research
-    url: /blog2/bef-china/Litterfall-experiment/
-
-  - title: Links
-    url: /stories/bef/
-
-toc1:
-  - title: Main Experiment
-    url: /blog2/bef-china/BEFmod-experiment/
-  - title: BEFmod Experiment
-    url: /blog2/bef-china/Main-experiment/
-  - title: Litterfall Experiment
-    url: /blog2/bef-china/Litterfall-experiment/
-
 toc:
   - title: BEF-China
     subfolderitems:
       - page: Main Experiment
-        url: /blog2/bef-china/BEFmod-experiment/
-      - page: BEFmod Experiment
         url: /blog2/bef-china/Main-experiment/
+      - page: BEFmod Experiment
+        url: /blog2/bef-china/BEFmod-experiment/
       - page: Litterfall Experiment
         url: /blog2/bef-china/Litterfall-experiment/
   - title: Natural forest CSP
@@ -40,44 +24,3 @@ toc:
         url: /blog2/grassland/Switzerland-Alpine/
       - page: FurkaPass
         url: /blog2/grassland/FurkaPass/
-
-toc2:
-  - title: Main Experiment
-    subfolderitems:
-      - page: Thing 1
-        url: /thing1.html
-      - page: Thing 2
-        url: /thing2.html
-        subsubfolderitems:
-          - page: Subthing 1
-            url: /subthing1.html
-          - page: Subthing 2
-            url: /subthing2.html
-      - page: Thing 3
-        url: /thing3.html
-  - title: BEFmod Experiment
-    subfolderitems:
-      - page: Piece 1
-        url: /piece1.html
-      - page: Piece 2
-        url: /piece2.html
-      - page: Piece 3
-        url: /hello.html
-        subsubfolderitems:
-          - page: Subpiece 1
-            url: /subpiece1.html
-          - page: Subpiece2
-            url: /subpiece2.html
-  - title: Litterfall Experiment
-    subfolderitems:
-      - page: Widget 1
-        url: /widget1.html
-        subsubfolderitems:
-          - page: Subwidget 1
-            url: /subwidget1.html
-          - page: Subwidget 2
-            url: /subwidget2.html
-      - page: Widget 2
-        url: /widget2.html
-      - page: Widget 3
-        url: /widget3.html

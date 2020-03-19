@@ -3,12 +3,6 @@
   <h2>{{ site.data.samplelist.docs_list_title }}</h2>
   </br>
 
-  <!-- {% assign doclist = site.data.samplelist.toc1 | sort: 'title'  %}
-  <ol>
-  {% for item in doclist %}
-      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-  {% endfor %}
-  </ol> -->
 
   {% for item in site.data.samplelist.toc %}
     <h3>{{ item.title }}</h3>
@@ -19,26 +13,4 @@
       </ol>
   {% endfor %}
 
-  <!-- <div>
-    {% if site.data.samplelist.toc2[0] %}
-      {% for item in site.data.samplelist.toc2 %}
-        <h3>{{ item.title }}</h3>
-          {% if item.subfolderitems[0] %}
-            <ol>
-              {% for entry in item.subfolderitems %}
-                  <li><a href="{{ entry.url }}">{{ entry.page }}</a>
-                    {% if entry.subsubfolderitems[0] %}
-                      <ol>
-                      {% for subentry in entry.subsubfolderitems %}
-                          <li><a href="{{ subentry.url }}">{{ subentry.page }}</a></li>
-                      {% endfor %}
-                      </ol>
-                    {% endif %}
-                  </li>
-              {% endfor %}
-            </ol>
-          {% endif %}
-        {% endfor %}
-    {% endif %}
-    </div> -->
 </div>

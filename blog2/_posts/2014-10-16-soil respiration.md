@@ -2,8 +2,8 @@
 layout: post
 title: Soil respiration
 categories: forest
-featImg: photography/litter-gts/litter-gts-2-thumbnail.JPG
-featImg2: photography/litter-gts/litter-gts-6-original.JPG
+featImg: photography/litter-gts/litter-gts-2-thumbnail.jpg
+featImg2: photography/litter-gts/litter-gts-6-original.jpg
 excerpt: "Beautiful butterflies"
 ---
 ## Publications

@@ -19,9 +19,9 @@ description: this is a website from yuanyuan
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yuanyuanhuang.com" # the base hostname & protocol for your site, e.g. http://example.com
 
-twitter_path: https://twitter.com
-instagram_path: https://www.instagram.com
-facebook_path: https://www.facebook.com
+twitter_path: https://twitter.com/IYuanzi
+instagram_path: https://www.instagram.com/iyuanzi/
+facebook_path: https://www.facebook.com/yuanyuan.huang.528
 #github_username:  jekyll
 
 pathToBlogImgBin: /assets/img/blog
