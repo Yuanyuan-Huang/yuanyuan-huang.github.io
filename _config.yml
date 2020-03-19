@@ -17,7 +17,7 @@ title: yuanyuanhuang
 email: youansjob@gmail.com
 description: this is a website from yuanyuan
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yuanyuanhuang.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://yuanyuan-huang.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 twitter_path: https://twitter.com/IYuanzi
 instagram_path: https://www.instagram.com/iyuanzi/
