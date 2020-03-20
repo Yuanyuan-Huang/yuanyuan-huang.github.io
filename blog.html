@@ -15,8 +15,7 @@ title: "blogs"
   {% for post in site.posts %}
     {% if post.categories contains 'love' %}
       <div class="blogPostContainer">
-        <a href="{{ site.baseurl }}{{ post.url }}" class="blogPostFeatImg" style="background-image:url('{{ site.baseurl }}/assets/{{ post.featImg }}');"></a>
-        <a href="" class="blogCategory">{{ post.categories }}</a>
+        <a href="{{ site.baseurl }}{{ post.url }}" class="blogPostFeatImg" style="background-image:url('{{ site.baseurl }}/{{ post.featImg }}');"></a>
         <a href="{{ site.baseurl }}{{ post.url }}" class="blogTitle">{{ post.title }}</a>
         <p class="blogExcept">{{ post.excerpt }}</a>
       </div>
