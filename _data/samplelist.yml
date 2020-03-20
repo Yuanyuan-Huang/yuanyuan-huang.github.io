@@ -1,5 +1,10 @@
 docs_list_title: Research
 toc:
+  - title: InsektenMobil
+    subfolderitems:
+      - page: InsektenMobil in Germany
+        url: /stories/insektenmobil/
+
   - title: BEF-China
     subfolderitems:
       - page: Main Experiment

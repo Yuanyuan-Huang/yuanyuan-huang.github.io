@@ -13,7 +13,6 @@ excerpt: "Research"
 ![See the research site](/assets/research/ABC/ReliefCadagno.jpg)
 [Download the map of Cadagno Geology](/assets/pdf/GeologyCadagno.pdf)
 <div class="gallery_story">
-
   <img  class="high" src="{{ site.baseurl }}/assets/research/ABC/ABC-1.jpg"/>
   <img  class="high" src="{{ site.baseurl }}/assets/research/ABC/ABC-2.jpg"/>
   <img class="high" src="{{ site.baseurl }}/assets/research/ABC/ABC-3.jpg"/>
@@ -27,10 +26,8 @@ excerpt: "Research"
 </div>
 <div class="galleryIndexWrapper">
   <h6 class="dropCap"><p>Field photos</p></h6>
-
   <div class="imgContainer">
     <h1>{{ gallery.title }}</h1>
-
     {% include gallery-layout.html gallery=site.data.research_photo.2011SummerSchool %}
   </div>
 </div>

@@ -49,24 +49,13 @@ Our results show strong variation in the small scale species composition that is
 2) E. Landolt, Ökologische Zeigerwerte zur Schweizer Flora. Veröffentlichunger des Geobotanischer Insititutes der ETH. Stiftung Rübel. Zürich, 1977
 
 <table border="0">
- <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
- </tr>
- <tr>
-    <td>## Conclusion
-    Our results show strong variation in the small scale species composition that is connected to microtopography and -climate typical to alpine area. This indicates that in changing climate conditions species can find new habitat in a suitable microclimate close to their old habitat. Microtopography's effects should be taken into account while projecting future distributions of plant species.</td>
-    <td>## Conclusion
-    Our results show strong variation in the small scale species composition that is connected to microtopography and -climate typical to alpine area. This indicates that in changing climate conditions species can find new habitat in a suitable microclimate close to their old habitat. Microtopography's effects should be taken into account while projecting future distributions of plant species.</td>
- </tr>
+
 </table>
 
 <div class="galleryIndexWrapper">
   <h6 class="dropCap"><p>Furka photos</p></h6>
-
   <div class="imgContainer">
     <h1>{{ gallery.title }}</h1>
-
     {% include gallery-layout.html gallery=site.data.research_photo.Furka_photo %}
   </div>
 </div>
