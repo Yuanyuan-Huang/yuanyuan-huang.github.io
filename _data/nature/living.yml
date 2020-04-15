@@ -1,0 +1,39 @@
+picture_path: living
+
+pictures:
+- filename: living-1
+  original: living-1-original.jpg
+  thumbnail: living-1-thumbnail.jpg
+- filename: living-2
+  original: living-2-original.jpg
+  thumbnail: living-2-thumbnail.jpg
+- filename: living-3
+  original: living-3-original.jpg
+  thumbnail: living-3-thumbnail.jpg
+- filename: living-4
+  original: living-4-original.jpg
+  thumbnail: living-4-thumbnail.jpg
+- filename: living-5
+  original: living-5-original.jpg
+  thumbnail: living-5-thumbnail.jpg
+- filename: living-6
+  original: living-6-original.jpg
+  thumbnail: living-6-thumbnail.jpg
+- filename: living-7
+  original: living-7-original.jpg
+  thumbnail: living-7-thumbnail.jpg
+- filename: living-8
+  original: living-8-original.jpg
+  thumbnail: living-8-thumbnail.jpg
+- filename: living-9
+  original: living-9-original.jpg
+  thumbnail: living-9-thumbnail.jpg
+- filename: living-10
+  original: living-10-original.jpg
+  thumbnail: living-10-thumbnail.jpg
+- filename: living-11
+  original: living-11-original.jpg
+  thumbnail: living-11-thumbnail.jpg
+- filename: living-12
+  original: living-12-original.jpg
+  thumbnail: living-12-thumbnail.jpg

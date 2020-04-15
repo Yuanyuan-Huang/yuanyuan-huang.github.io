@@ -1,0 +1,25 @@
+---
+layout: default
+title: "Plants in Zoo"
+categories: love
+featImg: nature/zooplant/zooplant-1-thumbnail.jpg
+excerpt: "Germany/Leipzig"
+author: yuanyuanhuang
+---
+
+<header class="post-img-header" style="background-image:url('{{ site.baseurl }}/nature/zooplant/zooplant-2-original.jpg')">
+    <div class="overlay-dark"></div>
+    {% include nav.html %}
+</header>
+<div class="post-index-title">
+    <h1 class="featured-blog-post-title">Plants in Zoo</h1>
+</div>
+
+<div class="galleryIndexWrapper">
+  <h6 class="dropCap"><p>Plants in Zoo</p></h6>
+
+  <div class="imgContainer">
+    <h1>{{ gallery.title }}</h1>
+    {% include gallery-layout-nature.html gallery=site.data.nature.zooplant %}
+  </div>
+</div>
