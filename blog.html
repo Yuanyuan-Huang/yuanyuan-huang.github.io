@@ -20,5 +20,12 @@ title: "blogs"
         <p class="blogExcept">{{ post.excerpt }}</a>
       </div>
     {% endif %}
+    {% if post.categories contains 'flickr' %}
+      <div class="blogPostContainer">
+        <a href="{{ site.baseurl }}{{ post.url }}" class="blogPostFeatImg" style="background-image:url('{{ post.featImg }}');"></a>
+        <a href="{{ site.baseurl }}{{ post.url }}" class="blogTitle">{{ post.title }}</a>
+        <p class="blogExcept">{{ post.excerpt }}</a>
+      </div>
+    {% endif %}
   {% endfor %}
 </div>
